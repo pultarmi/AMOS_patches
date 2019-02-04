@@ -9,4 +9,7 @@ https://drive.google.com/open?id=1NY2ES3DhJniF9l0SGSNxzA8ISyOzRN-0
 AMOS testing patches (64x64) - same format as 6Brown:
 https://drive.google.com/open?id=1EoaEopUTft3-N5SM3l7JZxk3DTvPdAC9
 
+## Reference
+Leveraging Outdoor Webcams for Local Descriptor Learning (https://arxiv.org/abs/1901.09780)
+
 ![alt text](patches.png)
