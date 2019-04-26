@@ -12,7 +12,10 @@ https://drive.google.com/open?id=15s4HBdAAkjjjOCen7x6zSybs71IGBZtr
 AMOS testing patches (64x64) - same format as 6Brown:
 https://drive.google.com/open?id=1EoaEopUTft3-N5SM3l7JZxk3DTvPdAC9
 
-## If you use this dataset, please consider citing
+**If you use this dataset, please consider citing**
+
+[Leveraging Outdoor Webcams for Local Descriptor Learning](http://diglib.tugraz.at/download.php?id=5c5941d91cdd5&location=browse)
+
 ```
 @article{HardNetAMOS2019,
     author 	= {Milan Pultar, Dmytro Mishkin, Jiri Matas},
