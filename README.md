@@ -7,8 +7,7 @@ https://drive.google.com/open?id=1Dza78UlrbHKG83XZlvNKOiAHVWg3uiHn
 
 [AMOS testing patches (96x96)](http://cmp.felk.cvut.cz/~qqpultar/test_patches.pt)
 
-AMOS testing patches (64x64) - same format as 6Brown:
-https://drive.google.com/open?id=1EoaEopUTft3-N5SM3l7JZxk3DTvPdAC9
+[AMOS testing patches (64x64)](http://cmp.felk.cvut.cz/~qqpultar/amos_10K.pt) - same format as 6Brown
 
 **If you use this dataset, please consider citing**
 
