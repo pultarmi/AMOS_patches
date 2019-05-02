@@ -1,7 +1,6 @@
 ## AMOS_patches
 
-Contributing views:
-https://drive.google.com/open?id=1Dza78UlrbHKG83XZlvNKOiAHVWg3uiHn
+[Contributing views](http://cmp.felk.cvut.cz/~qqpultar/AMOS_views_v3.zip)
 
 [AMOS training patches (96x96)](http://cmp.felk.cvut.cz/~qqpultar/train_patches.pt)
 
