@@ -14,11 +14,11 @@
 
 ```
 @article{HardNetAMOS2019,
-    author 	= {Milan Pultar, Dmytro Mishkin, Jiri Matas},
-    title  	= "{Leveraging Outdoor Webcams for Local Descriptor Learning}",
-    year   	= 2019,
-    month    	= feb,
-    booktitle 	= {Proceedings of CVWW 2019}
+    author 	= {Pultar, Milan and Mishkin Dmytro and Matas, Jiri},
+    title  	= {Leveraging Outdoor Webcams for Local Descriptor Learning},
+    year   	= {2019},
+    month    	= {feb},
+    journal 	= {Proceedings of CVWW 2019}
 }
 ```
 
