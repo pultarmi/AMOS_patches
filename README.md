@@ -1,12 +1,10 @@
-## AMOS_patches
+[Contributing views](http://cmp.felk.cvut.cz/~qqpultar/AMOS_views_v3.zip) - 27 folders, 50 images each
 
-[Contributing views](http://cmp.felk.cvut.cz/~qqpultar/AMOS_views_v3.zip)
+[AMOS Patches trainining set (96x96)](http://cmp.felk.cvut.cz/~qqpultar/train_patches.pt)
 
-[AMOS training patches (96x96)](http://cmp.felk.cvut.cz/~qqpultar/train_patches.pt)
+[AMOS Patches testing set (96x96)](http://cmp.felk.cvut.cz/~qqpultar/test_patches.pt)
 
-[AMOS testing patches (96x96)](http://cmp.felk.cvut.cz/~qqpultar/test_patches.pt)
-
-[AMOS testing patches (64x64)](http://cmp.felk.cvut.cz/~qqpultar/amos_10K.pt) - same format as 6Brown
+[AMOS Patches testing set (64x64)](http://cmp.felk.cvut.cz/~qqpultar/amos_10K.pt) - same format as 6Brown
 
 **If you use this dataset, please consider citing**
 
