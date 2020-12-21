@@ -1,4 +1,5 @@
-[Contributing views](http://cmp.felk.cvut.cz/~qqpultar/AMOS_views_v3.zip) - 27 folders, 50 images each
+[Contributing views](http://cmp.felk.cvut.cz/~qqpultar/AMOS_views_v3.zip) - 27 folders, 50 images each, with [Metadata](http://cmp.felk.cvut.cz/~qqpultar/AMOS_Patches/Metadata.zip) \
+The name of each view corresponds to ID of the camera in the AMOS dataset.
 
 [AMOS Patches trainining set (96x96)](http://cmp.felk.cvut.cz/~qqpultar/train_patches.pt)
 
